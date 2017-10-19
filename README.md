@@ -5,3 +5,7 @@ A command line tool to download torrents and also search for a movie and getting
 ## Demo for Windows
 
 ![demo](/Media/yts.gif)
+
+## Disclaimer
+
+The app will work as long as yts.ag is not blocked.
